@@ -5,4 +5,4 @@
 #    password: 12345678
 cloud:
   config:
-    test: msg-development10101010
+    test: msg-development121212
